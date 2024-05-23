@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Dziurka05/pawpaw/static/css/main.a8f6cd70.css",
+    "main.js": "/Dziurka05/pawpaw/static/js/main.f882f77c.js",
+    "static/js/453.e619eb3c.chunk.js": "/Dziurka05/pawpaw/static/js/453.e619eb3c.chunk.js",
+    "static/media/doghuman.png": "/Dziurka05/pawpaw/static/media/doghuman.26c10881f03bfb466b60.png",
+    "static/media/dogbackground.png": "/Dziurka05/pawpaw/static/media/dogbackground.ba0bd1c37426d3846983.png",
+    "static/media/doggybag.png": "/Dziurka05/pawpaw/static/media/doggybag.7377057192a9ad688eff.png",
+    "static/media/Chivo-Regular.ttf": "/Dziurka05/pawpaw/static/media/Chivo-Regular.4a20db978e653e11e640.ttf",
+    "static/media/doggy2.png": "/Dziurka05/pawpaw/static/media/doggy2.07c5c6602eabe54b5af0.png",
+    "static/media/doggy1.png": "/Dziurka05/pawpaw/static/media/doggy1.2b9d5c1dafbe482297d2.png",
+    "static/media/doggy4.png": "/Dziurka05/pawpaw/static/media/doggy4.39cc8066de005ca6717b.png",
+    "static/media/ahsoka.png": "/Dziurka05/pawpaw/static/media/ahsoka.a342bdc3620ea8a329b6.png",
+    "static/media/tlo1.jpg": "/Dziurka05/pawpaw/static/media/tlo1.345869969c8c5677d0d1.jpg",
+    "static/media/doggy3.png": "/Dziurka05/pawpaw/static/media/doggy3.97334311fa0dd2ab023d.png",
+    "static/media/livin.png": "/Dziurka05/pawpaw/static/media/livin.a53f20a19778b0ea05f4.png",
+    "static/media/lawyer.png": "/Dziurka05/pawpaw/static/media/lawyer.3f820dcb5d2e59a1c5d6.png",
+    "static/media/Logo.png": "/Dziurka05/pawpaw/static/media/Logo.1fe3c52826b54590a20e.png",
+    "static/media/ReactLogo.png": "/Dziurka05/pawpaw/static/media/ReactLogo.5b5c237960771ba5bb0c.png",
+    "index.html": "/Dziurka05/pawpaw/index.html",
+    "main.a8f6cd70.css.map": "/Dziurka05/pawpaw/static/css/main.a8f6cd70.css.map",
+    "main.f882f77c.js.map": "/Dziurka05/pawpaw/static/js/main.f882f77c.js.map",
+    "453.e619eb3c.chunk.js.map": "/Dziurka05/pawpaw/static/js/453.e619eb3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f6cd70.css",
+    "static/js/main.f882f77c.js"
+  ]
+}
