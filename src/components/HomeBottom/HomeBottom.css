@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Chivo";
+    src: url("../../fonts/Chivo-Regular.ttf");
+}
+.Lewo {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+
+.HomeBottom {
+    display: flex;
+    justify-content: center;
+    background-image: url(../../images/dogbackground.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 60px;
+    margin-left: 5%;
+    margin-bottom: 150px;
+    width: 90%;
+}
+
+.Srodek {
+    font-family: Chivo;
+    font-size: 24px;
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 200px;
+    font-weight: 600;
+    line-height: 28.56px;
+    text-align: left; 
+}
+#ponadczysta {
+    color: white;
+    font-size: 20px;
+    -webkit-text-stroke: 0.5px black;
+    transform: translateX(-30px);
+}

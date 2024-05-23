@@ -1,20 +1,35 @@
 import './Puppycomment.css'
-import lifegoodpuppy from '../../images/elipse1.jpg'
 
 
-function PuppyComment(){
+
+function PuppyComment({
+    title,  
+    paragraph,
+    name,
+    image,
+    isReverserow,
+    isreversecolumn,
+}){
+    
+    var direction;
+
+    if(isReverserow !==undefined){
+        direction = isReverserow ? 'row-reverse' : 'row';
+        console.log(direction)
+    }
+    if(isreversecolumn !==undefined){
+        direction = isreversecolumn ? 'column-reverse' : 'column';
+    }
     return(
-        <div className='puppy-comment-wrapper'>
+        <div className='puppy-comment-wrapper' style={{flexDirection: direction }}>
     <div className='puppy-comment-text-wrapper'>
-    <span className='puppy-comment-title'>lives good</span>
+    <span className='puppy-comment-title'>{title}</span>
     <span className='puppy-comment-paragraph'>
-Lots of food, lots of walkses and lots of food. After i finish paw school I might get good job to repay my hoomans.
-Then I give them treats...
-Until then i just cute
+{paragraph}
     </span>
-    <span className='puppy-comment-name'>Jack</span>
+    <span className='puppy-comment-name'>{name}</span>
     </div>
-    <img className='puppy-comment-images' src={lifegoodpuppy}/>
+    <img className='puppy-comment-images' src={image}/>
     </div>
         
 

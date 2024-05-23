@@ -8,7 +8,7 @@ import doggyImage4 from "../../images/doggy4.png";
 function LookingFor() {
     return (
         <div className="LookingFor">
-            <p id='patrz'>Looking for a Pawfect home</p>
+            <p id='szukam'>Looking for a Pawfect home</p>
                 <div className="DogCard">
                     <ListItem 
                         doggyImage={doggyImage} 

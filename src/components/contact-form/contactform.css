@@ -1,0 +1,67 @@
+.contact-form-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    background: #3D000054;
+background-repeat: no-repeat;
+background-size: cover;
+
+margin-left: 200px;
+    padding: 50px;
+    margin-bottom: 50px;
+background-image: url('../../images/tlo1.jpg');
+}
+.contact-form-headings{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    margin-top: 35px;
+}
+.contact-form-entry-text{
+
+}
+.contact-form-title{
+    font-size: 25px;
+    font-weight: 600;
+
+}
+.contact-form-input-fields{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    
+}
+.contact-form-label{
+    margin: 10px;
+}
+.contact-form-textarea{
+    height: 235px;
+    
+}
+.contact-form-submit-button{
+
+    border: none;
+    background-color: brown;
+    height: 50px;
+    color:white;
+    background: #3D000054;
+    font-size: 25px;
+}
+
+.button {
+    align-self: center;
+    margin: 20px;
+    border: 4px solid;
+    font-size: 80px;
+    height: 700px;
+    width: 90%;
+    background-image: url('../../images/tlo1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact-form-submit-button:hover{
+    background-color: #3D00009d;
+
+}

@@ -1,0 +1,16 @@
+.guzik {
+    box-shadow: 0px 4px 4px 0px #00000040;
+    background: #E9E9E9;
+    width: 90%;
+    height: 76.95px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 5%;
+    align-items: center;
+    font-family: Chivo;
+}
+#pokazwiecej {
+    font-size: 24px;
+    font-weight: 600;
+}

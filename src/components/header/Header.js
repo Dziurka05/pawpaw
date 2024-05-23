@@ -1,6 +1,7 @@
 import './Header.css';
 import logo from '../../images/Logo.png';
 import HeaderItem from '../HeaderItem/HeaderItem.js';
+import HeaderItem2 from '../HeaderItem2/HeaderItem2.js';
 
 function Header() {
     return (
@@ -9,7 +10,7 @@ function Header() {
         <div className="headeritem">
         <HeaderItem props='Home'/>
         <HeaderItem props='Fluff list'/>
-        <HeaderItem props='Contact us'/>
+        <HeaderItem2 props='Contact us'/>
         </div>
         </div>
     )

@@ -1,10 +1,39 @@
 .banner-wrapper{
     width: 1100px;
-    height: 391px;
     background-image: url('../../images/tlo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     opacity: 80%;
+    display: flex;
+flex-direction: row;    
 
+    
+}
+.banner-section-column{
+    display: flex;
+    flex-direction: column;
+}
+.banner-section-title h1{
+    font-weight: 800;
+
+}
+.banner-section-whatever{
+
+}
+.big-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.happy-customer{
+    color: #ffff;
+    font-size: 24px;
+    margin-top: 30px;
+    font-weight: 600;
+
+}
+.banner-section-row{
+    flex-direction: column;
+    display: flex;
+    gap: 30px;
 }
